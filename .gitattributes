@@ -1,1 +1,2 @@
 checkpoints/classifier_model filter=lfs diff=lfs merge=lfs -text
+checkpoints/detector_v2_base_checkpoint filter=lfs diff=lfs merge=lfs -text
