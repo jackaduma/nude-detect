@@ -5,10 +5,10 @@
 '''
 Author: Kun
 Date: 2022-05-30 23:28:03
-LastEditTime: 2022-05-30 23:51:33
+LastEditTime: 2022-06-08 14:46:31
 LastEditors: Kun
 Description: 
-FilePath: /my_open_projects/nude-detect/video_utils.py
+FilePath: /my_open_projects/nude-detect/utils/video_utils.py
 '''
 
 
